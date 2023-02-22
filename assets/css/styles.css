@@ -272,7 +272,7 @@ iframe {
 /* About section start*/
 .about {
   position: relative;
-  background: url("../images/flores.png") no-repeat top center/cover;
+  background: url("../images/flores.jpg") no-repeat top center/cover;
   height: 600px;
   display: flex;
   align-items: center;
