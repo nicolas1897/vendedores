@@ -205,11 +205,11 @@ ul {
 }
 
 .hear {
-  color: var(--primary-color);
+  color: black;
 }
 
 .connecting {
-  color: var(--secondary-color);
+  color: black;
 }
 
 .btn {
